@@ -9,7 +9,7 @@ Had some problems with getting apache derby to work a couple of times through th
 
 When I started making my own eclipselink projects through Intellij there was some problems choosing it instead of Jakarta persistence which seems to be the most normal library to use.
 
-![testDb](../dat250-jpa-example/Testdb.png)
+![testDb](https://github.com/S571736/DAT250_Expass2/blob/master/Testdb.png)
 
 ## Link
 
